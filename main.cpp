@@ -2,7 +2,7 @@
 #include "time.h"
 #include "movie.h"
 #include "timeslot.h"
-#include <string>
+
 
 
 int main () {
