@@ -3,8 +3,6 @@
 #include "movie.h"
 #include "timeslot.h"
 
-
-
 int main () {
 //Task A
 std::cout << "Task A" << std::endl; 
